@@ -50,7 +50,8 @@
         <div class="pos">
             <a bgUrl="static/images/banner-bg1.jpg" id="flash1" style="display:block;"><img
                     src="static/images/banner_pic1.png"></a>
-            <a bgUrl="static/images/banner-bg2.jpg" id="flash2"><img src="static/images/banner-pic2.jpg"></a>
+            <a bgUrl="" id="flash2"><img src="static/images/banner-pic2.jpg"></a><%--static/images/banner-bg2.jpg--%>
+
         </div>
         <div class="flash_bar">
             <div class="dq" id="f1" onclick="changeflash(1)"></div>

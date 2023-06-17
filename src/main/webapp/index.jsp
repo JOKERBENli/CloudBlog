@@ -8,7 +8,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>云R记</title>
+    <title>云博客</title>
     <link href="static/css/note.css" rel="stylesheet">
     <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="static/sweetalert/sweetalert2.min.css" rel="stylesheet">
