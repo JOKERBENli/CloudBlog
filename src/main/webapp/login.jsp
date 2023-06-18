@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="ContentType" content="text/html; charset=utf-8"/>
-    <title>云R记</title>
+    <title>云博客登录页</title>
     <link href="static/css/login.css" rel="stylesheet" type="text/css"/>
     <script src="static/js/jquery-1.11.3.js" type=text/javascript></script>
     <!-- 引入 util.js，使用他里面的判空方法，注意这里的引入顺序-->
@@ -65,11 +65,11 @@
             <div class="quick">
                 <ul>
                     <li><input type="button" class="quickbd iphone"
-                               onclick="location.href='https://blog.csdn.net/IT_Boy_'"/></li>
+                               onclick="location.href=''"/></li>
                     <li><input type="button" class="quickbd android"
-                               onclick="location.href='https://blog.csdn.net/IT_Boy_'"/></li>
+                               onclick="location.href=''"/></li>
                     <li><input type="button" class="quickbd pc"
-                               onclick="location.href='https://blog.csdn.net/IT_Boy_'"/></li>
+                               onclick="location.href=''"/></li>
                     <div class="clr"></div>
                 </ul>
                 <div class="clr"></div>

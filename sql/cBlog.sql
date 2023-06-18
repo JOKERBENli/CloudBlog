@@ -19,8 +19,8 @@ create table if not exists tb_user
     create_time         datetime    null comment '创建时间'
     )
     comment '用户';
--- INSERT INTO canteen.canteen_customer ()
--- VALUES ();
+INSERT INTO tb_user
+VALUES (0,"admin","123456","AI",NULL,"good","2023-06-18");
 
 drop table if exists tb_type;
 create table if not exists tb_type
