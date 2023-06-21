@@ -7,11 +7,8 @@ import com.cloudblog.note.dao.UserDao;
 import com.cloudblog.note.po.User;
 import com.cloudblog.note.result.ResultInfo;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.Part;
 
-
-public class UserService {
+public class RegisterService {
     private UserDao userDao = new UserDao();
 
     public ResultInfo<User> userLogin(String userName, String userPwd) {

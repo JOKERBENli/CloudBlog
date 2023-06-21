@@ -1,1 +1,3 @@
+com\cloudblog\note\web\registerServlet.class
 com\cloudblog\note\util\DBUtil.class
+com\cloudblog\note\dao\BaseDao.class

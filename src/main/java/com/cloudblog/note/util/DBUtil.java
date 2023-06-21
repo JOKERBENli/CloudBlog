@@ -32,7 +32,7 @@ public class DBUtil {
     /**
      * 获取数据库连接
      * */
-    public static Connection getConnect(){
+    public static Connection getConnection(){
         Connection connection = null;
 
         try{

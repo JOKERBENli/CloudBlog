@@ -15,10 +15,10 @@ public class TestDB {
      * */
     @Test
     public void testDB(){
-        System.out.println(DBUtil.getConnect());
+        System.out.println(DBUtil.getConnection());
 
         //使用日志
-        logger.info("获取数据库连接："+DBUtil.getConnect());
-        logger.info("获取数据库连接：{}"+DBUtil.getConnect());
+        logger.info("获取数据库连接："+DBUtil.getConnection());
+        logger.info("获取数据库连接：{}"+DBUtil.getConnection());
     }
 }

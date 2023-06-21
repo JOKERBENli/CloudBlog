@@ -1,16 +1,12 @@
 package com.cloudblog.note.dao;
 
 import com.cloudblog.note.po.User;
-import com.cloudblog.note.util.DBUtil;
 
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UserDao {
-    public User queryUserByName(String userName) {
+public class registerDao {
+    public User insertUser(String userName) {
         // 1.定义sql语句
         String sql = "select * from tb_user where uname = ?";
 

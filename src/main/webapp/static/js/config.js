@@ -129,4 +129,4 @@
 		$("#userName").attr("value", "");
 		$("#userPwd").attr("value", "");
 	}
-	
+	// checkRegister()
